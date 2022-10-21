@@ -1,2 +1,1 @@
-# sbs-travel
-AWS Simple Beer Service - Travel Edition
+# AWS Simple Beer Service - Travel Edition
