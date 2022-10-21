@@ -1,6 +1,6 @@
 # AWS Simple Beer Service - Travel Edition
 
-Simple Beer Service
+##Simple Beer Service
 
 The SBS Travel Edition is based on Simple Beer Service, more details can be found here:
 
