@@ -25,7 +25,7 @@ The key component of the SBS Travel Edition, is the base (the box). It is constr
 
 Each piece that you need to cut is in the cut list is below. You will need the proper tools (not mentioned here) and the ability to use those tools to cut and assemble the base. The base is made out of MDF, to make it heavy. MDF is easy to work with and paints easily.
 
-![](_media/sbs_travel_edition_base.png)
+<img src=_media/sbs_travel_edition_base.png width=800>
 
 ### MDF cut list
 
@@ -37,7 +37,7 @@ Each piece that you need to cut is in the cut list is below. You will need the p
 
 For the top, you will need to cut a hole for the tap tower. After you cut the hole for the tap tower, place the tower where you want it, and then mark and drill holes for the screws to hold the tower. For the bottom, you need an access hole to be able to move the flow meter around and space for attaching the tap tower.
 
-![](_media/SBS_Travel_Edition_base_top_bottom_measurements.png)
+<img src=_media/SBS_Travel_Edition_base_top_bottom_measurements.png width=800>
 
 ### Base Assembly
 
