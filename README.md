@@ -13,7 +13,7 @@ Start here, blog post: https://aws.amazon.com/blogs/startups/internet-of-beer-in
 
 Here is a description of the key differences between a full sized SBS unit, and the SBS Travel Edition.
 
-![](_images/sbs_travel_edition_for_web_annotated_1.png)
+![](_media/sbs_travel_edition_for_web_annotated_1.png)
 
 Setup video (on Broadcast) from a conference
 
