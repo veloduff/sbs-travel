@@ -42,7 +42,8 @@ For the top, you will need to cut a hole for the tap tower. After you cut the ho
 ### Base Assembly
 
 See diagram above, use wood glue and finishing nails to hold in place. Let dry for 30-60 mins, patch the nail holes, and paint (3 coats).
-Bill of Materials
+
+## Bill of Materials
 
 As part of the SBS Travel Edition, you will need to build the SBS Head Unit. Follow the instructions on the SBS site: https://github.com/awslabs/simplebeerservice, but do not purchase the kegerator.
 
