@@ -86,17 +86,17 @@ Start by building the base (instructions above). The base is needed to start ass
 
 The tap tower comes with a beverage tube already connected to the tap, you will need to install the flow meter in-line, and attach a ball-lock fitting (so you can connect it to the 2.5 gallon keg).
 
-Flow meter and ball-lock fitting
+Flow meter and ball-lock fitting:
 
-![](_media/SBS-Travel_flow_meter_ball-lock-fitting.png)
+<img src=_media/SBS-Travel_flow_meter_ball-lock-fitting.png width=600>
 
 One important difference between the full sized SBS unit and the SBS Travel Edition, is that the SBS Head Unit needs to be able to completely separate from the tap tower. To solve this I used telephone couplers, and spliced the telephone wire with the Grove connecting wires.
 
-Telephone connector
+Telephone connector:
 
 <img src=_media/SBS_Travel_Edition_connector.png width=300>
 
-Setup and assembly during events
+## Setup and assembly during events
 
 Start by mounting the tap tower to the base with wingnuts, making sure to route the beverage tube with the flow meter out the back of the base (pic above shows tube out the back).
 
@@ -104,14 +104,14 @@ Use wingnuts to hold tower
 
 <img src=_media/SBS_Travel_Edition_wingnuts.jpeg width=300>
 
-* Connect sensors to the SBS Head Unit
-* Install the Head Unit on to the tap tower
-* Make sure the lid on the keg is closed and secure, and it is full of beer, coffee, or whatever.
-* Connect the beverage tube from the tap to the "OUT" connection on the keg.
-* Attach the hand pump to the keg "IN" connection. If it is not pressurized, use the hand pump about 8 times.
-* Verify liquid is flowing from the tap.
-* Plug in the SBS Head Unit and the Alexa device in to a power source.
-* Verify the unit is on the SBS web page, and check that all of the sensors are working.
+1. Connect sensors to the SBS Head Unit
+1. Install the Head Unit on to the tap tower
+1. Make sure the lid on the keg is closed and secure, and it is full of beer, coffee, or whatever.
+1. Connect the beverage tube from the tap to the "OUT" connection on the keg.
+1. Attach the hand pump to the keg "IN" connection. If it is not pressurized, use the hand pump about 8 times.
+1. Verify liquid is flowing from the tap.
+1. Plug in the SBS Head Unit and the Alexa device in to a power source.
+1. Verify the unit is on the SBS web page, and check that all of the sensors are working.
 
 ## Packing in a suitcase
 
