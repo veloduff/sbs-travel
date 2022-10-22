@@ -79,37 +79,45 @@ Large suitcase (needs to be 28 x 17 x 12) | $150 - $200 | https://www.amazon.com
 
 
 ## Building the SBS Travel Edition
-Initial build
 
-    Start by building the base (instructions above). The base is needed to start assembling the SBS Travel Edition, so the base will need to be done first.
-    Build the SBS Head Unit and test the sensors, following the instructions on the SBS GitHub page.
-    The tap tower comes with a beverage tube already connected to the tap, you will need to install the flow meter in-line, and attach a ball-lock fitting (so you can connect it to the 2.5 gallon keg).
+### Initial build
 
-    Flow meter and ball-lock fitting
-    SBS-Travel_flow_meter_ball-lock-fitting.png
-    One important difference between the full sized SBS unit and the SBS Travel Edition, is that the SBS Head Unit needs to be able to completely separate from the tap tower. To solve this I used telephone couplers, and spliced the telephone wire with the Grove connecting wires.
+Start by building the base (instructions above). The base is needed to start assembling the SBS Travel Edition, so the base will need to be done first. Build the SBS Head Unit and test the sensors, following the instructions on the SBS GitHub page.
 
-    Telephone connector
-    SBS_Travel_Edition_connector.png
+The tap tower comes with a beverage tube already connected to the tap, you will need to install the flow meter in-line, and attach a ball-lock fitting (so you can connect it to the 2.5 gallon keg).
+
+Flow meter and ball-lock fitting
+
+![](_media/SBS-Travel_flow_meter_ball-lock-fitting.png)
+
+One important difference between the full sized SBS unit and the SBS Travel Edition, is that the SBS Head Unit needs to be able to completely separate from the tap tower. To solve this I used telephone couplers, and spliced the telephone wire with the Grove connecting wires.
+
+Telephone connector
+
+![](_media/SBS_Travel_Edition_connector.png)
 
 Setup and assembly during events
 
-    Start by mounting the tap tower to the base with wingnuts, making sure to route the beverage tube with the flow meter out the back of the base (pic above shows tube out the back).
+Start by mounting the tap tower to the base with wingnuts, making sure to route the beverage tube with the flow meter out the back of the base (pic above shows tube out the back).
 
-    Use wingnuts to hold tower
-    SBS_Travel_Edition_wingnuts.jpeg
-    Connect sensors to the SBS Head Unit
-    Install the Head Unit on to the tap tower
-    Make sure the lid on the keg is closed and secure, and it is full of beer, coffee, or whatever.
-    Connect the beverage tube from the tap to the "OUT" connection on the keg.
-    Attach the hand pump to the keg "IN" connection. If it is not pressurized, use the hand pump about 8 times.
-    Verify liquid is flowing from the tap.
-    Plug in the SBS Head Unit and the Alexa device in to a power source.
-    Verify the unit is on the SBS web page, and check that all of the sensors are working.
+Use wingnuts to hold tower
 
-Packing in a suitcase
+![](_media/SBS_Travel_Edition_wingnuts.jpeg)
+
+* Connect sensors to the SBS Head Unit
+* Install the Head Unit on to the tap tower
+* Make sure the lid on the keg is closed and secure, and it is full of beer, coffee, or whatever.
+* Connect the beverage tube from the tap to the "OUT" connection on the keg.
+* Attach the hand pump to the keg "IN" connection. If it is not pressurized, use the hand pump about 8 times.
+* Verify liquid is flowing from the tap.
+* Plug in the SBS Head Unit and the Alexa device in to a power source.
+* Verify the unit is on the SBS web page, and check that all of the sensors are working.
+
+## Packing in a suitcase
 
 This picture shows everything in the suitcase (the base is below the tower and Head Unit), you will need to stuff padding (e.g., towels) to protect everything. The suitcase is approximately 28 x 17 x 12 inches.
 
 SBS Travel Edition packed up
-SBS_Travel_Edition_suitcase.png
+
+![](_media/SBS_Travel_Edition_suitcase.png)
+
