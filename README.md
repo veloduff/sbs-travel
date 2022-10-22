@@ -27,11 +27,13 @@ Each piece that you need to cut is in the cut list is below. You will need the p
 
 ![](_media/sbs_travel_edition_base.png)
 
-__MDF cut list__
-Item 	Dimensions (inches)
-Top and bottom (see below for hole size and location) 	17 x 17
-Both sides 	16.25 x 2.25
-Front 	17 x 2.25
+### MDF cut list
+
+|Item | Dimensions (inches) |
+| --- | --- |
+| Top and bottom (see below for hole size and location) | 17 x 17 |
+| Both sides | 16.25 x 2.25 |
+| Front | 17 x 2.25 |
 
 For the top, you will need to cut a hole for the tap tower. After you cut the hole for the tap tower, place the tower where you want it, and then mark and drill holes for the screws to hold the tower. For the bottom, you need an access hole to be able to move the flow meter around and space for attaching the tap tower.
 
