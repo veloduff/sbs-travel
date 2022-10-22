@@ -15,7 +15,7 @@ Here is a description of the key differences between a full sized SBS unit, and 
 
 ![](_media/sbs_travel_edition_for_web_annotated_1.png)
 
-Setup video from a conference: https://drive.google.com/file/d/1obmS8UynUOYbRYKckRoQuFRRDYyAna8m/view?usp=sharing
+Video from a conference: https://drive.google.com/file/d/1fBbQApuwwyCCpL6uSV7en1BmmOFgPTug/view?usp=sharing
 
 This shows how to setup an SBS (Simple Beer Service) Travel Edition, that I called, at the time, the Caffeine Delivery Service. Rather than having to ship an entire kegerator from event to event, SBS Travel Edition can fit in to a suitcase, and be setup in about 15 minutes.
 
