@@ -37,8 +37,9 @@ Each piece that you need to cut is in the cut list is below. You will need the p
 
 For the top, you will need to cut a hole for the tap tower. After you cut the hole for the tap tower, place the tower where you want it, and then mark and drill holes for the screws to hold the tower. For the bottom, you need an access hole to be able to move the flow meter around and space for attaching the tap tower.
 
-SBS_Travel_Edition_base_top_bottom_measurements.png
-Base Assembly
+![](_media/SBS_Travel_Edition_base_top_bottom_measurements.png)
+
+### Base Assembly
 
 See diagram above, use wood glue and finishing nails to hold in place. Let dry for 30-60 mins, patch the nail holes, and paint (3 coats).
 Bill of Materials
@@ -46,34 +47,38 @@ Bill of Materials
 As part of the SBS Travel Edition, you will need to build the SBS Head Unit. Follow the instructions on the SBS site: https://github.com/awslabs/simplebeerservice, but do not purchase the kegerator.
 
 This is an updated, and modified SBS bill of materials. There are specific items to the SBS Travel Edition that are not required for a full size SBS unit.
-Item 	Cost (estimate) 	Link
-Keg Cooler for 2.5 gallon Keg 	$30 	https://www.amazon.com/Cool-Brewing-Gallon-Cornelius-Cooler/dp/B01L7PBEHY
-2.5 Gallon Keg (Ball-Lock) 	$100 	https://www.amazon.com/2-5-Gallon-Homebrew-Keg-Stainless/dp/B01HK3DORA
-Kegco Single Faucet Stainless Draft Beer Tower with Per Lick Stainless Faucet 	$150 	https://www.amazon.com/Kegco-BF-1FT650SS-Single-Stainless/dp/B0118XOE04
-Drip Tray 	$40 	https://www.amazon.com/gp/product/B01EGPFVBM
-3D Printed case (5 STL files) 	$250 	http://www.3dhubs.com
-Raspberry Pi 4 	$105 	https://www.amazon.com/gp/product/B07TC2BK1X
-GrovePi+ Starter Kit 	$109 	https://www.amazon.com/gp/product/B01BRCEWV2
-Mounting and standoff screws (optional) 	$12 	https://www.amazon.com/Hilitchi-360pcs-Female-Standoff-Assortment/dp/B015S27EG2
-Liquid flow meter 	$15 	https://www.adafruit.com/product/828
-Micro Stereo Amplifier Amplify Board with Speakers 	$63 	https://www.amazon.com/DROK-Portable-Amplifier-Digital-Amplify/dp/B010FB89ME
-Wall adapter power supply 	$7 	https://us.amazon.com/gp/product/B010FAQQNY
-PlexiGlass Sheet 	$15 	https://www.amazon.com/Source-Premium-Acrylic-PlexiGlass-S1-12x12-25/dp/B00844SOSE
-Audio cable 	$8 	https://www.amazon.com/AmazonBasics-3-5mm-Stereo-Audio-Cable/dp/B00NO73MUQ
-Echo dot 	$30 	https://www.amazon.com/Echo-Dot/dp/B07FZ8S74R
-Stainless Steel 1/2 FPT X 3/8 Hose Barb 	2 x $12 	https://www.amazon.com/gp/product/B07GR9VDWW
-10 Feet - 3/8" ID 1/2" OD Clear Vinyl Food Grade Tube for Beer Line 	$11 	https://www.amazon.com/50-ID-OD-Vinyl-Tubing/dp/B01LWSPRCG
-Pipe tape 	$7 	https://www.amazon.com/Everflow-811-Thread-Plumbers-White/dp/B079SYCRYG
-Pipe clamps 	$13 	https://www.amazon.com/YDS-Grade-Stainless-Diameter-Bandwidth/dp/B077SQX12Y
-Screws to attach back plate 	$10 	https://www.amazon.com/Stainless-Phillips-Coated-Bolt-Dropper/dp/B07D1LKFB7
-Screws to hold down tap tower 	$5 	https://www.homedepot.com/p/Everbilt-10-24-x-1-1-2-in-Phillips-Flat-Head-Stainless-Steel-Machine-Screw-3-Pack-814691/204274836
-Wingnuts to hold down tap tower 	 $5 	https://www.homedepot.com/p/Everbilt-10-24-Stainless-Steel-Wing-Nut-800191/204274208
-Anti slip pads for bottom of base 	$5 	https://www.amazon.com/Shepherd-Hardware-9644-Surface-Furniture/dp/B00KYJN0JA
-3/4 x 24 x 48 in MDF Board 	$30 	https://www.homedepot.com/p/Handprint-Medium-Density-Fiberboard-Common-3-4-in-x-2-ft-x-4-ft-Actual-0-734-in-x-23-75-in-x-47-75-in-219743/202093815
-Satin Black Enamel Spray Paint 	$6 	https://www.amazon.com/Rust-Oleum-245197-Spray-Paint-12-Ounce/dp/B0016HM4DM
-Amazon Fire Tablet (display SBS web page) 	$80 - $150 	https://www.amazon.com/s?k=fire+tablet
-Large suitcase (needs to be 28 x 17 x 12) 	$150 - $200 	https://www.amazon.com/SwissGear-Travel-Spinner-Luggage-inches/dp/B014TFWDSS
-Building the SBS Travel Edition
+
+| Item | Cost (estimate) | Link |
+| --- | --- | --- |
+Keg Cooler for 2.5 gallon Keg | $30 | https://www.amazon.com/Cool-Brewing-Gallon-Cornelius-Cooler/dp/B01L7PBEHY |
+2.5 Gallon Keg (Ball-Lock) | $100 | https://www.amazon.com/2-5-Gallon-Homebrew-Keg-Stainless/dp/B01HK3DORA |
+Kegco Single Faucet Stainless Draft Beer Tower with Per Lick Stainless Faucet | $150 | https://www.amazon.com/Kegco-BF-1FT650SS-Single-Stainless/dp/B0118XOE04 |
+Drip Tray | $40 | https://www.amazon.com/gp/product/B01EGPFVBM |
+3D Printed case (5 STL files) | $250 | http://www.3dhubs.com |
+Raspberry Pi 4 | $105 | https://www.amazon.com/gp/product/B07TC2BK1X |
+GrovePi+ Starter Kit | $109 | https://www.amazon.com/gp/product/B01BRCEWV2 |
+Mounting and standoff screws (optional) | $12 | https://www.amazon.com/Hilitchi-360pcs-Female-Standoff-Assortment/dp/B015S27EG2 |
+Liquid flow meter | $15 | https://www.adafruit.com/product/828 |
+Micro Stereo Amplifier Amplify Board with Speakers | $63 | https://www.amazon.com/DROK-Portable-Amplifier-Digital-Amplify/dp/B010FB89ME |
+Wall adapter power supply | $7 | https://us.amazon.com/gp/product/B010FAQQNY |
+PlexiGlass Sheet | $15 | https://www.amazon.com/Source-Premium-Acrylic-PlexiGlass-S1-12x12-25/dp/B00844SOSE |
+Audio cable | $8 | https://www.amazon.com/AmazonBasics-3-5mm-Stereo-Audio-Cable/dp/B00NO73MUQ |
+Echo dot | $30 | https://www.amazon.com/Echo-Dot/dp/B07FZ8S74R |
+Stainless Steel 1/2 FPT X 3/8 Hose Barb | 2 x $12 | https://www.amazon.com/gp/product/B07GR9VDWW |
+10 Feet - 3/8" ID 1/2" OD Clear Vinyl Food Grade Tube for Beer Line | $11 | https://www.amazon.com/50-ID-OD-Vinyl-Tubing/dp/B01LWSPRCG |
+Pipe tape | $7 | https://www.amazon.com/Everflow-811-Thread-Plumbers-White/dp/B079SYCRYG |
+Pipe clamps | $13 | https://www.amazon.com/YDS-Grade-Stainless-Diameter-Bandwidth/dp/B077SQX12Y |
+Screws to attach back plate | $10 | https://www.amazon.com/Stainless-Phillips-Coated-Bolt-Dropper/dp/B07D1LKFB7 |
+Screws to hold down tap tower | $5 | https://www.homedepot.com/p/Everbilt-10-24-x-1-1-2-in-Phillips-Flat-Head-Stainless-Steel-Machine-Screw-3-Pack-814691/204274836 |
+Wingnuts to hold down tap tower | $5 | https://www.homedepot.com/p/Everbilt-10-24-Stainless-Steel-Wing-Nut-800191/204274208 |
+Anti slip pads for bottom of base | $5 | https://www.amazon.com/Shepherd-Hardware-9644-Surface-Furniture/dp/B00KYJN0JA |
+3/4 x 24 x 48 in MDF Board | $30 | https://www.homedepot.com/p/Handprint-Medium-Density-Fiberboard-Common-3-4-in-x-2-ft-x-4-ft-Actual-0-734-in-x-23-75-in-x-47-75-in-219743/202093815 |
+Satin Black Enamel Spray Paint | $6 | https://www.amazon.com/Rust-Oleum-245197-Spray-Paint-12-Ounce/dp/B0016HM4DM |
+Amazon Fire Tablet (display SBS web page) | $80 - $150 | https://www.amazon.com/s?k=fire+tablet |
+Large suitcase (needs to be 28 x 17 x 12) | $150 - $200 | https://www.amazon.com/SwissGear-Travel-Spinner-Luggage-inches/dp/B014TFWDSS |
+
+
+## Building the SBS Travel Edition
 Initial build
 
     Start by building the base (instructions above). The base is needed to start assembling the SBS Travel Edition, so the base will need to be done first.
