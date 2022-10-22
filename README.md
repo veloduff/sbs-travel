@@ -94,7 +94,7 @@ One important difference between the full sized SBS unit and the SBS Travel Edit
 
 Telephone connector
 
-![](_media/SBS_Travel_Edition_connector.png)
+<img src=_media/SBS_Travel_Edition_connector.png width=300>
 
 Setup and assembly during events
 
@@ -102,7 +102,7 @@ Start by mounting the tap tower to the base with wingnuts, making sure to route 
 
 Use wingnuts to hold tower
 
-![](_media/SBS_Travel_Edition_wingnuts.jpeg)
+<img src=_media/SBS_Travel_Edition_wingnuts.jpeg width=300>
 
 * Connect sensors to the SBS Head Unit
 * Install the Head Unit on to the tap tower
@@ -119,5 +119,5 @@ This picture shows everything in the suitcase (the base is below the tower and H
 
 SBS Travel Edition packed up
 
-![](_media/SBS_Travel_Edition_suitcase.png)
+<img src=_media/SBS_Travel_Edition_suitcase.png width=500>
 
