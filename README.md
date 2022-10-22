@@ -1,18 +1,20 @@
 # AWS Simple Beer Service - Travel Edition
 
-##Simple Beer Service
+## Simple Beer Service
 
 The SBS Travel Edition is based on Simple Beer Service, more details can be found here:
 
 Start here, blog post: https://aws.amazon.com/blogs/startups/internet-of-beer-introducing-simple-beer-service/
 
-GitHub repo: https://github.com/awslabs/simplebeerservice
-Currently connected SBS units: https://simplebeerservice.com/
-SBS Travel Edition Description
+* GitHub repo: https://github.com/awslabs/simplebeerservice
+* Currently connected SBS units: https://simplebeerservice.com/
+
+## SBS Travel Edition Description
 
 Here is a description of the key differences between a full sized SBS unit, and the SBS Travel Edition.
 
-sbs_travel_edition_for_web_annotated_1.png
+![](_images/sbs_travel_edition_for_web_annotated_1.png)
+
 Setup video (on Broadcast) from a conference
 
 This shows how to setup an SBS (Simple Beer Service) Travel Edition, that I called, at the time, the Caffeine Delivery Service. Rather than having to ship an entire kegerator from event to event, SBS Travel Edition can fit in to a suitcase, and be setup in about 15 minutes.
