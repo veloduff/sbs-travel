@@ -15,19 +15,19 @@ Here is a description of the key differences between a full sized SBS unit, and 
 
 ![](_media/sbs_travel_edition_for_web_annotated_1.png)
 
-Setup video (on Broadcast) from a conference
+Setup video from a conference: https://drive.google.com/file/d/1obmS8UynUOYbRYKckRoQuFRRDYyAna8m/view?usp=sharing
 
 This shows how to setup an SBS (Simple Beer Service) Travel Edition, that I called, at the time, the Caffeine Delivery Service. Rather than having to ship an entire kegerator from event to event, SBS Travel Edition can fit in to a suitcase, and be setup in about 15 minutes.
 
-Video_preview.png
-Base construction
+## Base construction
 
 The key component of the SBS Travel Edition, is the base (the box). It is constructed out of 3/4" MDF to make it heavy and increase the stability. There are holes on the top for the tap tower, and on the bottom for the setup process. The back is open, which provides more access and storing wires and extra tubing out of the way.
 
 Each piece that you need to cut is in the cut list is below. You will need the proper tools (not mentioned here) and the ability to use those tools to cut and assemble the base. The base is made out of MDF, to make it heavy. MDF is easy to work with and paints easily.
 
-sbs_travel_edition_base.png
-MDF cut list
+![](_media/sbs_travel_edition_base.png)
+
+__MDF cut list__
 Item 	Dimensions (inches)
 Top and bottom (see below for hole size and location) 	17 x 17
 Both sides 	16.25 x 2.25
